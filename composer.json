@@ -35,10 +35,5 @@
     "require-dev": {
         "phpspec/phpspec": "^4.2.3",
         "leanphp/phpspec-code-coverage" : "^4.2"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "3.0.x-dev"
-        }
     }
 }
