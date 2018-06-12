@@ -1,5 +1,5 @@
 {
-    "name": "sqills/port-symfony-console",
+    "name": "portphp/symfony-console",
     "description": "Symfony Console tools for PortPHP",
     "license": "MIT",
     "homepage": "https://github.com/portphp",
@@ -35,5 +35,10 @@
     "require-dev": {
         "phpspec/phpspec": "^4.2.3",
         "leanphp/phpspec-code-coverage" : "^4.2"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.0.x-dev"
+        }
     }
 }
